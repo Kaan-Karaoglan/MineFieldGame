@@ -1,0 +1,22 @@
+--- Mine Field game with Assembly ---
+
+Mine field games main idea is: Declaring all the locations without steping on a bomb.
+We build up this project with static bomb locations on the field.
+The field size is 5x6 (row x column) and there are 5 bombs on the field. If you can make 25 input without encounter the bombs 
+you would finish the game succesfully.
+
+
+THE PROJECTS MAIN GOALS:
+
+1) Declaring the game field with matrix (succeed)
+2) Declaring the bombs location on the field (succeed)
+3) Taking the input location from the user (succeed)
+4) Comparing the bomb locations with user inputs (succeed)
+5) According to player input reprinting the non-bomb locations signature (succeed)
+6) Declaring the player win or lose (succeed)
+
+
+Project Developers:
+
+1030510145 ÖZGÜR ÇETİNKAYA
+1030510292 KAAN KARAOĞLAN
